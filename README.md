@@ -1,7 +1,12 @@
 # Web-App Suggestion-Box
 KotakSaran adalah platform kolaborasi dua arah antara pengguna dan administrator yang memungkinkan pengiriman saran/masukan secara digital dengan sistem tracking terintegrasi. Dibangun menggunakan framework CodeIgniter 4, aplikasi ini menyediakan solusi modern untuk manajemen saran institusi/organisasi dengan fitur lengkap dan keamanan terjamin.
 Berikut deskripsi lengkap untuk Web Application "Kotak Saran Online":
-
+![image](https://github.com/user-attachments/assets/16b7e1bf-0975-4fa7-845c-48cdf6ec1052)
+![image](https://github.com/user-attachments/assets/342f2648-3687-46e8-b6af-a27d8d4d12f3)
+![image](https://github.com/user-attachments/assets/c1c37085-012d-4179-b059-880c175cfb82)
+![image](https://github.com/user-attachments/assets/79d19ee4-1ec4-47d8-ac14-5b7cfec6d4b8)
+![image](https://github.com/user-attachments/assets/c7443a80-12c9-4970-a87f-c3fcf3ee9c8b)
+![image](https://github.com/user-attachments/assets/8062a43c-45c9-4d20-92e1-2cdbb3fdcc66)
 ### **Fitur Utama**  
 ✅ **Dual Role System**:  
    - **Pengguna Umum**  
